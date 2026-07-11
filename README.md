@@ -3,7 +3,8 @@
 
 ## Основной функционал
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/08865fee-6af0-4455-b07c-0ce84e8cb0f5" />
+![Uploading image.png…]()
+
 
 
 *   **Чтение из файла:** Автоматическая загрузка структуры графа при запуске из текстового файла `input.txt`.
